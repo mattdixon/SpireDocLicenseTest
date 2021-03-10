@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<License Key="HBdhAQDB4GtonRzJ43x0MGVOmaSZ6SZtZEzE2+wPIyIu9rsspIthkF4MEDkYY/hXMaXdoHGrq9fKifVn27T3jn7Rk6On+BoL8NcJxXPb6TDbVDknr6ulG1nLjcNC3gG3j5Ddq4Sursp2Z6aJ1cKQGj3U0POnLfrW3OcSbnRoh4CgjLnYq3y3Cbd3o+g6WEn8yOv7WvdF0i6Ftc5mgzWDxFyVmZtxeHLQKD9gFZX3c/ysSJZHgx8Hy55a+3KL/G5ZDCST2m9y/sgJ20fGfO21Lm4lL2+e4fjLJRJOR0sFkvNs07fVhIwrs8OaG6V270WPmUsoDN3ok616zRZAK/bgitOSFguCcsdYwPXfY3OdcwgWcmrvoaOa7hSejkLWBRaHv6prKGCach5ade1MH7/udeK3R9OFa4E8ZAr+WEzD86KjNbgcFNhkyVIKXA7TYg4z8j8OsD4wNX13+AnZxk4y4G5VgGZ03Az4S0uwkwZ+uE3hZa9VAYPmpIoLfaV6hxhkv2SiJn0ivZSLLkdReR1gyx36jqwNo6PYzr1nQ6yD1e/EXqB97dfi5RqUGbZESMjU+w7Aj1+3vFiWdBwxRoky3Lau+0dGqR5GXJXtR7TuA7l1rhFouFZUN/doZlNt1BfWCP6CflVHieZmv7elRbL4LylOy5ZOAfYksCMaZvZKkBpOUFyhYuNTJSR8UffGyhkVr142FSeO951Ea2HAtbGWZB2marTjVemtRiC2kIGnH0RboJYUHxRg6kszmGGAKM1qao6HIY7wDSfP/FEkfY9cKuFYc96JNTzCReE9dwbl306wP2VosQcZHnExrSbq5wocgvnEUldwN0sZP/a+JPaNiHKbMHQY95yx2SdWvy4C2+Ja/1Ci/8bAuMU/71cm37V2nXro1xqET6mpESNoE4QkQeAlcbh1yZun+dgLMlNlNT68t417Mj5F1y0cQ3RgnwDx0laIa60F0iTbIDapKeOzo5Z+m2V9fTviuvCVkXvKCHEC36IYepoS7c/DpJqw21JrECoOUIs06GjPYLb7Bh1j0e7JwyU0SKDUHmVLppvcDgAgy3+/U6F7WVsBnKN0AN3obiu6rp5eSnosRqALerdGWZbS1OkaVdGzBSgmRUxoJnM0Ue95ptygYjfztUDAijQV1KrBEW9qSjEXEFjCiwn5BIcBFXOxyeDOU3rfl5QhQ0+OuofX5l5Kzxx4bqPA+vQaeKubH9PW/hnxytTEAo2ccbp05FuzTfd4DDQShZSsODXx1Yev6fzVvFonjWfg/UGvy6LXkQP7B3fmhCebnoRSSvgdbK4tuuuHx/IwRn9G67N+8nzUZ91nZdPZVXx1+xz/bC+Y4eLMztubKtZraB8h0sU1VeMLjo0a6RU13SAoSdCyaf+crU5HGxq53nhgc2ygmUjn0CIrbY/zoIxrSniHPuy/3y4+43q+VxIlWf05+O4=" Version="1.3">
+    <Type>Runtime</Type>
+    <Username>Erik Bensen</Username>
+    <Email>ebensen@copic.com</Email>
+    <LicensedDate>2021-03-05T12:00:00Z</LicensedDate>
+    <ExpiredDate>2022-03-05T12:00:00Z</ExpiredDate>
+    <Products>
+        <Product>
+            <Name>Spire.Doc Standard Edition</Name>
+            <Version>8.12</Version>
+            <Subscription>
+                <NumberOfPermittedDeveloper>1</NumberOfPermittedDeveloper>
+                <NumberOfPermittedSite>1</NumberOfPermittedSite>
+            </Subscription>
+        </Product>
+    </Products>
+    <Issuer>
+        <Name>e-iceblue</Name>
+        <Email>sales@e-iceblue.com</Email>
+        <Url>http://www.e-iceblue.com</Url>
+    </Issuer>
+</License>
